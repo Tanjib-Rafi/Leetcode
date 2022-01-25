@@ -17,3 +17,21 @@ class Solution:
                 nums2_iterable += 1
 
         return result
+    
+    #2nd method:
+    
+#     class Solution:
+#     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+#         a_list = []
+        
+#         for i in nums1 :
+            
+#             if i in nums2 :
+                
+#                 nums2.remove(i)
+                
+#                 a_list.append(i)
+                          
+        
+#         return a_list
+        
