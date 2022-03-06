@@ -13,7 +13,7 @@ class Solution:
 
   
 
-#Iteration Solution: Time and Space O(n)
+#Iterative Solution: Time and Space O(n)
 
 
 # Definition for a binary tree node.
