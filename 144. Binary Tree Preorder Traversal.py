@@ -28,7 +28,6 @@ class Solution:
         result = []
 
         while root is not None and stack != []:
-            while stack!=[]:
                 root = stack.pop()
                 result.append(root.val)
             
